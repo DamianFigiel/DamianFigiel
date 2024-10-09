@@ -4,7 +4,7 @@
 I’m a Lead DevOps Engineer with a deep passion for building scalable, reliable, and cost-efficient cloud infrastructure. With over six years of experience in DevOps and QA roles, I specialize in automating workflows, developing cloud-native applications, and ensuring high system availability. My expertise spans across a broad range of technologies, including AWS, Kubernetes, Terraform, and Blockchain infrastructures. I thrive in fast-paced environments, driving innovation through robust infrastructure solutions and continuous integration practices. Blockchain, cloud optimization, and cutting-edge automation are some of my key areas of interest.
 
 ## Skills
-- **Programming & Scripting:** JavaScript, TypeScript, Bash, Java, C++
+- **Programming & Scripting:** JavaScript, TypeScript, Rust, Go, Bash, Java, C++
 - **Cloud Technologies:** AWS, Terraform, CloudFlare
 - **Containerization & Orchestration:** Docker, Kubernetes, Helm
 - **CI/CD & Automation:** GitHub Actions, Terraform, Jenkins, AWS Lambda, AWS System Manager Automation
