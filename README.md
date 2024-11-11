@@ -32,4 +32,4 @@ I’m a Lead DevOps Engineer with a deep passion for building scalable, reliable
 - **LinkedIn:** [Damian Figiel](https://www.linkedin.com/in/dfigiel/)
 - **Email**: [figiel.damian94@gmail.com](mailto:figiel.damian94@gmail.com)
 
-If you’re looking for a dedicated DevOps Engineer who is passionate about creating efficient, scalable infrastructure solutions, feel free to connect with me!
+If you’re looking to discuss any DevOps topics with DevOps Engineer who is passionate about creating efficient, scalable infrastructure solutions, feel free to connect with me!
