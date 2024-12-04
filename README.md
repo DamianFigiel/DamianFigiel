@@ -9,7 +9,7 @@ I’m a Lead DevOps Engineer with a deep passion for building scalable, reliable
 - **Containerization & Orchestration:** Docker, Kubernetes, Helm
 - **CI/CD & Automation:** GitHub Actions, Terraform, Jenkins, AWS Lambda, AWS System Manager Automation
 - **Monitoring & Logging:** Prometheus, Grafana, CloudWatch, Elasticsearch, CloudFalre
-- **Blockchain Platforms:** Substrate, Ethereum
+- **Blockchain Platforms:** Substrate, Ethereum, Arbitrum, Base
 - **DevOps Practices:** Infrastructure as Code, Disaster Recovery, CI/CD Pipelines, Cost Optimization, GitOps, Observability
 - **QA Tools & Technologies:** Selenium, Selenide, WebdriverIO, Mocha, Chai, Karate Framework, Gatling, GraphQL
 - **Project Management Tools:** Linear, Jira, Trello, Asana
